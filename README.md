@@ -1,5 +1,9 @@
 # Video game project
 
+Here is what the game approximately looked like
+
+![image](https://user-images.githubusercontent.com/69010419/152876363-281ab444-185a-4cb2-828e-a3fe9c731173.png)
+
 
 ## Compilation
 
